@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharadwajkastur1
+- 👋 Hi, I’m Bharadwaj S Kasturi
 - 👀 I’m a Data Science enthisiast and I google to code
 - 🌱 I’m currently pursuing my Masters in Data Science at Rochester Institute of Technology
 - 💞️ I’m looking to collaborate on projects involving Machine Learning, Neural Networks and Natural Language Processing
